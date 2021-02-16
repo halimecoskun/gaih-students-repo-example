@@ -1,4 +1,4 @@
-# GAIH Student Repo Example
+# introduction-to-python
 ![](img/logo.png)
 
 **Course Date:** 15.02.2021  
